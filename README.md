@@ -15,7 +15,7 @@ Following steps taken to achieve terraform modules infrastructure creation:
 
 <img width="646" height="341" alt="Resources-created" src="https://github.com/user-attachments/assets/da6554b2-cd30-4119-8b35-9de7baaae0fa" />
 
-3. **TERRAFORM IMPORT:** If we have lost the **terraform.tfstate** file due to some issue then using below command we can get it. (state file will be retrieved only if we have existing server present)
+3. **TERRAFORM IMPORT:** If we have lost the **terraform.tfstate** file due to some issue then using below command we can get it. (state file will be retrieved only if we have existing server present created manually)
 
 ---> **Syntax:** terraform import resourcename.labelname instance-ID
 
