@@ -9,9 +9,9 @@ Following steps taken to achieve terraform modules infrastructure creation:
 
 2. After executing the commands resources are added.
 
-terraform init
-terraform plan
-terraform apply --auto-approve
+---> terraform init
+---> terraform plan
+---> terraform apply --auto-approve
 
 <img width="646" height="341" alt="Resources-created" src="https://github.com/user-attachments/assets/da6554b2-cd30-4119-8b35-9de7baaae0fa" />
 
