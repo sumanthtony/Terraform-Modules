@@ -31,6 +31,6 @@ Following steps taken to achieve terraform modules infrastructure creation:
 
 <img width="469" height="320" alt="taint-result" src="https://github.com/user-attachments/assets/6ebc9d19-8c63-47c4-a96f-d63b55270541" />
 
-5. For **terraform taint** we have another **alternative command** which we will use most is : **terraform apply --auto-approve --replace="resourcename.labelname**
+5. For **terraform taint** we have another **alternative command** which we will use most is : **terraform apply --auto-approve --replace="resourcename.labelname"**
 
 <img width="532" height="92" alt="terraform-replace" src="https://github.com/user-attachments/assets/f1552588-3f8f-4c9f-b1c8-9b3aa73fbfca" />
