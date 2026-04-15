@@ -21,7 +21,7 @@ Following steps taken to achieve terraform modules infrastructure creation:
 
 <img width="436" height="226" alt="terraform-modules" src="https://github.com/user-attachments/assets/ed8ff070-d73e-48f1-a8b2-b1fc8dc67c6a" />
 
-4. **TERRAFORM TAINT:** For example if we have 10 resources and due to some only 7 are created and 3 didn't then for this we'll use terraform taint to destroy and create those 3 resources again.
+4. **TERRAFORM TAINT:** For example if we have 10 resources and due to some issue only 7 are created and 3 didn't then for this we'll use terraform taint to destroy and create those 3 resources again.
 
 ---> **Syntax:** terraform taint resourcename.labelname
 
